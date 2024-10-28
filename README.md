@@ -8,4 +8,6 @@ I'm interested in creating and redesigning FiveM resources in my free time. I en
 🛠 Skills
 </h1>
 
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,lua)](https://github.com/barti-code)
+</p>
